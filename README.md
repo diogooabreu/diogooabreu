@@ -58,22 +58,12 @@ I'm Diogo, I'm 24 yers old, and I'm from Paraná. Currently, I'm studying Intern
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Tailwind" 
     title="Tailwind"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
-<br/>
-## Backend
 <img 
     align="left" 
     alt="PHP" 
@@ -90,8 +80,6 @@ I'm Diogo, I'm 24 yers old, and I'm from Paraná. Currently, I'm studying Intern
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
-<br/>
-## Database
 <img
   align="left"
   alt="MySQL"
@@ -100,16 +88,6 @@ I'm Diogo, I'm 24 yers old, and I'm from Paraná. Currently, I'm studying Intern
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
 />
-<img
-  align="left"
-  alt="MongoDB"
-  title="MongoDB"
-  width="40px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
-/>
-<br/>
-## Frameworks
 <img 
     align="left" 
     alt="Git" 
