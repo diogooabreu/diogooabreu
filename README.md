@@ -7,7 +7,6 @@ I'm Diogo, I'm 24 yers old, and I'm from Paraná. Currently, I'm studying Intern
 ---
 
 ### 🤖 Languages and Frameworks
-## Frontend
 <img 
     align="left" 
     alt="HTML"
