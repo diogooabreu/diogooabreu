@@ -27,6 +27,9 @@
 
 <h2 align="center">GitHub Stats
 
+<br/>
+<br/>
+    
 <div align="center">
 <img width=48% src="https://github-readme-streak-stats.herokuapp.com?user=diogooabreu&theme=dracula&mode=weekly" alt="GitHub Streak Stats" />
 <img width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogooabreu&show_icons=true&theme=dracula&layout=compact" alt="Top Languages" />
